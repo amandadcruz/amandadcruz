@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @amandadcruz
-- 👀 I’m interested in estar adquirindo conhecimentos.
+- 👋 Oi, eu sou @amandadcruz
 - 🩸  Biomédica
--  🪴  Licenciatura em Ciências Biológicas
+-  🪴  Licenciada em Ciências Biológicas
 -  📚  Mestranda em  Biologia celular e molecular - UEM
 <!---
 amandadcruz/amandadcruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
